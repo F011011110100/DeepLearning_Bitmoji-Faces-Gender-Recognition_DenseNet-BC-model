@@ -5,3 +5,9 @@
 - 运用GPU进行训练。
 - 在读取权值的这一步：每次运行产生的文件都不一样，此处需要改变
 > weight_filepath = "/kaggle/working/model_save/epoch_xx_xx.xx%.pth"
+
+### Deep Learning Assignment -- Kaggle Competition -- Bitmoji Faces Gender Recognition -- using DenseNet-BC model
+- Run in Kaggle's notebook, directly add the data set from the Kaggle contest, and set the path in the code to the path on Kaggle.
+- Use GPU for training.
+- In this step of reading weights: Each run produces a different file, which needs to be changed here
+> weight_filepath = "/kaggle/working/model_save/epoch_xx_xx.xx%.pth"

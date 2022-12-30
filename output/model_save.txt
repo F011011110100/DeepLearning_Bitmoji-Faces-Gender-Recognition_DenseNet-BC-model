@@ -1,0 +1,2 @@
+由于文件过于庞大。如需查看每一次迭代所训练的权值，请访问：https://www.kaggle.com/code/fengjiayi/faces-recognition-v2/data
+中的output/model_save文件夹下的内容
